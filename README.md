@@ -1,6 +1,13 @@
 Biopython notebook Tutorials
 ============================
 
+[nbviewer link](https://nbviewer.jupyter.org/github/projetinho-bioinfo/biopython-notebook/blob/0f63b5014ed1ca84edaa95100157ef3b49be0267/notebooks/00%20-%20Tutorial%20-%20Index.ipynb)
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/projetinho-bioinfo/biopython-notebook/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/biopython-notebook/blob/0f63b5014ed1ca84edaa95100157ef3b49be0267/notebooks/00%20-%20Tutorial%20-%20Index.ipynb)
+
+
 Notebooks to introduce Biopython.
 
 Github renders Jupyter notebooks, you can take a look at the notebooks by starting at the [Tutorial Index notebook](notebooks/00 - Tutorial - Index.ipynb).
