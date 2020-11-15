@@ -5,7 +5,7 @@ Biopython notebook Tutorials
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/projetinho-bioinfo/biopython-notebook/)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/biopython-notebook/blob/0f63b5014ed1ca84edaa95100157ef3b49be0267/notebooks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/biopython-notebook)
 
 
 Notebooks to introduce Biopython.
